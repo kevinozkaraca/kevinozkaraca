@@ -1,8 +1,5 @@
 ### Salut à tous ! 👋
 
-
-## Mes reseaux sociaux : 
-
 <p align="center">
   <br/>
     <div class="socialIcons">
