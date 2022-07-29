@@ -34,7 +34,7 @@
             aria-label="Accedez à mon compte Twitter"
                 width= 10%
         /></a>
-        <br />
+      
         <a class="hrefLink" href="https://instagram.com/kevinozkaraca" target="_blank"
           ><img
             class="IMGlink"
@@ -67,7 +67,7 @@
             aria-label="Envoyez moi un mail sur mon Gmail"
                 width= 10%
         /></a>
-        <br />
+    
         <a class="hrefLink" href="https://stackoverflow.com/users/14641483/kevin-deniz-%c3%96zkaraca" target="_blank"
           ><img
             class="IMGlink"
