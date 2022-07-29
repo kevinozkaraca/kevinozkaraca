@@ -1,7 +1,6 @@
 ## Bonjour à vous ! 👋
 
 <p align="center">
-  <br/>
     <a class="hrefLink" href="https://github.com/kevinozkaraca" target="_blank"
           ><img
             class="IMGlink"
@@ -67,7 +66,6 @@
             aria-label="Envoyez moi un mail sur mon Gmail"
                 width= 10%
         /></a>
-    
         <a class="hrefLink" href="https://stackoverflow.com/users/14641483/kevin-deniz-%c3%96zkaraca" target="_blank"
           ><img
             class="IMGlink"
