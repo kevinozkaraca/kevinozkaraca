@@ -1,9 +1,6 @@
-## Bonjour à vous ! 👋
-
 <p align="center">
     Vous etes sur le Compte de Kevin Özkaraca !
 </p>
-
 ### Mes reseaux sociaux :
 <p align="center">
              <a href="https://github.com/kevinozkaraca" target="_blank"><img width="8%" src="https://github.com/kevinozkaraca/Projet_JavaScript/raw/main/imagesReadme/iconGithub.png" alt="Icone Github de Kevin Özkaraca" aria-label="Accedez à mes dépots Github" title="Accedez à mes dépots Github"></a>
